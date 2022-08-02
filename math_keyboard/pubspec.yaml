@@ -19,7 +19,7 @@ dependencies:
   holding_gesture: ^1.1.0
   intl: ^0.17.0
   math_expressions: ^2.1.0
-  petitparser: ^4.0.2
+  petitparser: ^5.0.0
 
 dev_dependencies:
   flutter_test:
